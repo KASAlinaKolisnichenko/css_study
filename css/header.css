@@ -1,6 +1,6 @@
 .header-banner__h1{
     text-transform: uppercase;
-    color: red;
+    color:var(--h2-text-color);
     padding: 10px;
     border: 1px solid blue;
     text-align: center;
